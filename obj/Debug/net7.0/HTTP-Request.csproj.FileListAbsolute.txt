@@ -1,0 +1,17 @@
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\bin\Debug\net7.0\HTTP-Request.exe
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\bin\Debug\net7.0\HTTP-Request.deps.json
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\bin\Debug\net7.0\HTTP-Request.runtimeconfig.json
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\bin\Debug\net7.0\HTTP-Request.dll
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\bin\Debug\net7.0\HTTP-Request.pdb
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\obj\Debug\net7.0\HTTP-Request.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\obj\Debug\net7.0\HTTP-Request.AssemblyInfoInputs.cache
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\obj\Debug\net7.0\HTTP-Request.AssemblyInfo.cs
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\obj\Debug\net7.0\HTTP-Request.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\obj\Debug\net7.0\HTTP-Request.dll
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\obj\Debug\net7.0\refint\HTTP-Request.dll
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\obj\Debug\net7.0\HTTP-Request.pdb
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\obj\Debug\net7.0\HTTP-Request.genruntimeconfig.cache
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\obj\Debug\net7.0\ref\HTTP-Request.dll
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\obj\Debug\net7.0\HTTP-Request.csproj.AssemblyReference.cache
+C:\Users\pawel\source\repos\csVSProjects\http-request-training\obj\Debug\net7.0\HTTP-Request.csproj.CopyComplete

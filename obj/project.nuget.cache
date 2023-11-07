@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "1jIS4NrhkjCCR8l94PfcVEV6HaQGE7YM+hcgollf9TANwx1yc7QxOYQen0TuX7zDpofjJ3DtGBOnQ0ioQoDBvw==",
+  "dgSpecHash": "pUbylK3rfq+73JaG9x8Jb5RT3K4JEeLcQinYIYJyQF+IHe0vPNrPt0DE6RUAAvBV+LcHSu7eNa9etRwfoNl5JQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\http-request-training\\http-request-training.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pawel\\source\\repos\\csVSProjects\\http-request-training\\HTTP-Request.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pawel\\.nuget\\packages\\flurl\\3.0.6\\flurl.3.0.6.nupkg.sha512",
+    "C:\\Users\\pawel\\.nuget\\packages\\flurl.http\\3.2.4\\flurl.http.3.2.4.nupkg.sha512",
+    "C:\\Users\\pawel\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\pawel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\pawel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\pawel\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
   "logs": []
 }
